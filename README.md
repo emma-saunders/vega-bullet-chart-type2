@@ -1,10 +1,6 @@
 # vega-bullet-chart-type2
 https://stargate.swissre.com/workspace/module/edit/ri.workshop.main.module.ab3c30f4-5aee-44c7-9ade-52c151bc40ef
 ![image](https://github.com/user-attachments/assets/31d78eb7-e9d2-4b61-816e-f2ab63ca2c79)
-## Improvements to make
-- Tooltip number formatting
-- Tooltip "true" message for text inside and at end of bars
-- Gap to left of x axis too big
 
 ## Features
 - Responsive
