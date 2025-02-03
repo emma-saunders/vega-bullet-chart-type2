@@ -294,7 +294,7 @@
             "signal": "format(datum.loss_ratio, '.1%') + 'LR'"
         },
         "tooltip":{
-            "signal": "{'Loss Ratio': format(datum.loss_ratio, '.2%')}"
+            "signal": "{'Gender': datum.gender, 'Loss Ratio': format(datum.loss_ratio, '.2%')}"
         },
         "fill": {
             "value": "black"
